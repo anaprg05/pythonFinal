@@ -37,6 +37,7 @@
 
 ### 12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 
+![Captura de Pantalla - Primer Commit](https://github.com/anaprg05/pythonFinal/assets/167032821/38f9fcdc-97ca-4ced-8199-92d3458e1402)
 
 
 ### 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
