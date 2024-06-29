@@ -21,10 +21,10 @@
 
 ## ACTIVIDADES - INVESTIGACIÓN
 ### 11. ¿Qué es el pip y porque se tiene que actualizar?
-####       pip es el sistema de gestión de paquetes para Python. Te permite instalar, actualizar y desinstalar paquetes de software distribuidos a través del Python Package Index ####   (PyPI) y otros índices de paquetes. Los paquetes son colecciones de archivos que permiten a los desarrolladores compartir y reutilizar código.
+####       pip es el sistema de gestión de paquetes para Python. Te permite instalar, actualizar y desinstalar paquetes de software distribuidos a través del Python Package Index (PyPI) y otros índices de paquetes. Los paquetes son colecciones de archivos que permiten a los desarrolladores compartir y reutilizar código.
 
 ####   ¿Por qué es importante actualizar pip?
-####   Actualizar pip y mantener los paquetes actualizados asegura que tu entorno de desarrollo sea estable, seguro y eficiente, permitiéndote aprovechar las últimas mejoras y ####   funcionalidades disponibles en el ecosistema de Python.
+####   Actualizar pip y mantener los paquetes actualizados asegura que tu entorno de desarrollo sea estable, seguro y eficiente, permitiéndote aprovechar las últimas mejoras y funcionalidades disponibles en el ecosistema de Python.
 ####   Nuevas funcionalidades: Las versiones más recientes de pip pueden incluir nuevas funcionalidades que no están disponibles en versiones anteriores.
 
 ####      1. Corrección de errores: Actualizar pip puede solucionar errores y problemas que se encuentran en versiones anteriores.
